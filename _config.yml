@@ -15,13 +15,12 @@ theme_settings:
 
   # Header and footer text
   header_text: > #two or three lines to describe your site
-     <p>WelCome to My Blog!<br>LIMA Developer Park Hyun Mo</p>
+     <p>WelCome to My Blog<br>LIMA Developer Park Hyun Mo</p>
   header_text_feature_image: assets/img/pexels/triangular.jpeg
   footer_text: >
-  <a href="http://limastory.com/">LIMA</a>
+  <a href="https://limastory.com/">LIMA</a>
    서울특별시 중구 청계천로 40, CKL기업지원센터 1305호<br>
    mobile. +82-010-3448-4355<br>
-   Email. kkkhyunmo@nate.com<br>
    Office. +82-070-5124-9485<br>
    Fax. +82-0303-3443-6012
 
