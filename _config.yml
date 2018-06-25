@@ -8,17 +8,22 @@ description: "A website with blog posts and pages" # used by search engines
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Type on Strap # blog's title
+  title: ParkHyunMo blog# blog's title
   avatar: assets/img/triangle.svg
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
 
   # Header and footer text
   header_text: > #two or three lines to describe your site
-     <p>Change header text in <code>_config.yml</code> <br> to update this feature.</p>
+     <p>WelCome to My Blog! <br>LIMA Developer Park Hyun Mo</p>
   header_text_feature_image: assets/img/pexels/triangular.jpeg
   footer_text: >
-   Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
+  <a href="http://limastory.com//">LIMA</a>
+   서울특별시 중구 청계천로 40, CKL기업지원센터 1305호
+   mobile. +82-010-3448-4355
+   Email. kkkhyunmo@nate.com
+   Office. +82-070-5124-9485
+   Fax. +82-0303-3443-6012
 
   # Icons
   rss: true  # Make sure you created a feed.xml with feed.xml layout
