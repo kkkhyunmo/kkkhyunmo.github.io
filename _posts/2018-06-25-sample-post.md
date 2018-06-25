@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Sample post
+title: Park Hyun Mo
 tags: [Test, Lorem, Ipsum]
 excerpt_separator: <!--more-->
 ---
 
-Consectetur adipiscing elit. Donec a diam lectus. Sed sit amet ipsum mauris. Maecenas congue ligula ac quam viverra nec consectetur ante hendrerit. Donec et mollis dolor. 
-Praesent et diam eget libero egestas mattis sit amet vitae augue. Nam tincidunt congue enim, ut porta lorem lacinia consectetur. 
+안녕하세요. 리마 개발자 박현모입니다.
+Spring을 이용한 웹 개발을 주로 공부 했으며,
+현재는 파이썬 프로그래밍을 하고 있습니다.
 <!--more-->
 Donec ut libero sed arcu vehicula ultricies a non tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ut gravida lorem.
 
