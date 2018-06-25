@@ -1,25 +1,25 @@
 # SITE CONFIGURATION
 baseurl: ""
 url: "https://kkkhyumo.github.io"
-title:  Type on Strap
+title: Park Blog
 description: "A website with blog posts and pages" # used by search engines
 
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Park # blog's title
+  title: Type on Strap # blog's title
   avatar: assets/img/triangle.svg
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
 
   # Header and footer text
   header_text: > #two or three lines to describe your site
-     <p>WelCome to My Blog<br>LIMA Developer Park Hyun Mo</p>
+     <p><code>_config.yml</code> <br> to update this feature.</p>
   header_text_feature_image: assets/img/pexels/triangular.jpeg
   footer_text: >
-  <a href="https://limastory.com/">LIMA</a>
-   서울특별시 중구 청계천로 40, CKL기업지원센터 1305호
+   Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
+
   # Icons
   rss: true  # Make sure you created a feed.xml with feed.xml layout
   email_address: # Full email address, e.g. "sam@example.com"
