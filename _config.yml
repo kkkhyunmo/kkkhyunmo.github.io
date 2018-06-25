@@ -18,7 +18,7 @@ theme_settings:
      LIMA Developer<br> Park Hyun Mo</p>
   header_text_feature_image: assets/img/pexels/triangular.jpeg
   footer_text: >
-   <a href="https://limastory.com/">LIMA</a>서울특별시 중구 청계천로 40, CKL기업지원센터 1305호
+   <a href="https://limastory.com/">LIMA</a>
 
   # Icons
   rss: true  # Make sure you created a feed.xml with feed.xml layout
