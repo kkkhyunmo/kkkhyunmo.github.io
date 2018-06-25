@@ -1,14 +1,14 @@
 # SITE CONFIGURATION
 baseurl: ""
 url: "https://kkkhyumo.github.io"
-title: Park's Blog
+title:  Type on Strap
 description: "A website with blog posts and pages" # used by search engines
 
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Park's blog# blog's title
+  title: Park # blog's title
   avatar: assets/img/triangle.svg
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
@@ -19,11 +19,7 @@ theme_settings:
   header_text_feature_image: assets/img/pexels/triangular.jpeg
   footer_text: >
   <a href="https://limastory.com/">LIMA</a>
-   서울특별시 중구 청계천로 40, CKL기업지원센터 1305호<br>
-   mobile. +82-010-3448-4355<br>
-   Office. +82-070-5124-9485<br>
-   Fax. +82-0303-3443-6012
-
+   서울특별시 중구 청계천로 40, CKL기업지원센터 1305호
   # Icons
   rss: true  # Make sure you created a feed.xml with feed.xml layout
   email_address: # Full email address, e.g. "sam@example.com"
