@@ -8,21 +8,18 @@ excerpt_separator: <!--more-->
 안녕하세요. 리마 개발자 박현모입니다.
 Spring을 이용한 웹 개발을 주로 공부 했으며,
 현재는 파이썬 프로그래밍을 하고 있습니다.
-<!--more-->
-Donec ut libero sed arcu vehicula ultricies a non tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ut gravida lorem.
 
-* Consectetur adipiscing elit
-* Donec a diam lectus
-* Sed sit amet ipsum mauris
-
-Ut turpis felis, pulvinar a semper sed, adipiscing id dolor. Pellentesque auctor nisi id magna consequat sagittis. Curabitur dapibus enim sit amet elit pharetra tincidunt feugiat nisl imperdiet. Ut convallis libero in urna ultrices accumsan. Donec sed odio eros. Donec viverra mi quis quam pulvinar at malesuada arcu rhoncus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. In rutrum accumsan ultricies. Mauris vitae nisi at sem facilisis semper ac in est.
-
-Nunc diam velit, adipiscing ut tristique vitae, sagittis vel odio. Maecenas convallis ullamcorper ultricies. Curabitur ornare, ligula *semper consectetur sagittis*, nisi diam iaculis velit, id fringilla sem nunc vel mi. Nam dictum, odio nec pretium volutpat, arcu ante placerat erat, non tristique elit urna et turpis. Quisque mi metus, ornare sit amet fermentum et, tincidunt et orci. Fusce eget orci a orci congue vestibulum.
-
-Ut dolor diam, elementum et vestibulum eu, porttitor vel elit. Curabitur venenatis pulvinar tellus gravida ornare. Sed et erat faucibus nunc euismod ultricies ut id justo. Nullam cursus suscipit nisi, et ultrices justo sodales nec. Fusce venenatis facilisis lectus ac semper. Aliquam at massa ipsum. Quisque bibendum purus convallis nulla ultrices ultricies. Nullam aliquam, mi eu aliquam tincidunt, purus velit laoreet tortor, viverra pretium nisi quam vitae mi. Fusce vel volutpat elit. Nam sagittis nisi dui.
-
-> Suspendisse lectus leo, consectetur in tempor sit amet, placerat quis neque
-
-Etiam luctus porttitor lorem, sed suscipit est rutrum non. Curabitur lobortis nisl a enim congue semper. Aenean commodo ultrices imperdiet. Vestibulum ut justo vel sapien venenatis tincidunt.
-
-Phasellus eget dolor sit amet ipsum dapibus condimentum vitae quis lectus. Aliquam ut massa in turpis dapibus convallis. Praesent elit lacus, vestibulum at malesuada et, ornare et est. Ut augue nunc, sodales ut euismod non, adipiscing vitae orci. Mauris ut placerat justo. Mauris in ultricies enim. Quisque nec est eleifend nulla ultrices egestas quis ut quam. Donec sollicitudin lectus a mauris pulvinar id aliquam urna cursus. Cras quis ligula sem, vel elementum mi. Phasellus non ullamcorper urna.
+2015. 02 ~ 2015. 12
+네트워크 관리 및 보안 - 국비지원과정 ITBANK ICT교육센터
+C언어, 리눅스 , Windows , 넷기초 , CCNP(스위치,라우터) - 기초과목 교육 
+네트워크 및 보안(네트워크,웹,무선랜,시스템해킹) - 국비지원 교육 4개월
+2017. 03 ~ 2017. 08
+하이브리드 웹&앱 개발자 양성 과정 그린아카데미
+HTML/CSS, JavaScript, jQuery 이용한 UI 구현
+MVC 모델2를 이용한 웹페이지와 서버 구축
+2017. 12 ~ 2018. 03
+스터디 활동으로 아래 항목을 공부 하였습니다.
+ 코드로 배우는 스프링 웹 프로젝트 스터디
+  (스프링+MyBatis연동, Ajax @RestController의 활용, 인터셉터와 파일    업로드, AOP와 트랙젝션 관리)
+ 자바 웹 개발 워트북
+  (MVC 아키텍처, 마이바티스, 스프링으로 만드는 실무형 개발자 로드맵)
